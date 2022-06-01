@@ -18,5 +18,9 @@
         .info {
             font-color: purple;
         }
+        
+         body { 
+          Text-Align: center;
+        }
 
         </style>
