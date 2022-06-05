@@ -8,6 +8,10 @@
             background-color:rgb(253, 218, 13);
         }
         
+       #TextBox 1 {
+         float: right;
+         }
+        
         
         #Backinfo {
          color:RGB(300, 0, 0);
