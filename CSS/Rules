@@ -9,7 +9,7 @@
         }
         
        #TextBox 1 {
-         float: right;
+        Text-Align: Left;
          }
         
         
