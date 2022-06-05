@@ -10,7 +10,7 @@
         
         
         #Backinfo {
-         color: Green;
+         color: RGB(0, 100, 0);
          }
       
         
