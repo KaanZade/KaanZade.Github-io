@@ -10,8 +10,6 @@
         
        .TextBox-1 {
         Text-Align: Left;
-        Position: Abosulte;
-        Top: 30px;
          }
         
         
