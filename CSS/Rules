@@ -9,7 +9,7 @@
         }
         
         
-        .Backinfo {
+        #Backinfo {
          color: Green;
          }
       
