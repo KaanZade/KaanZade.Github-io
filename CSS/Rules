@@ -21,7 +21,10 @@
          color:RGB(300, 0, 0);
          }
       
-        
+          #NickelList {
+         color:RGB(300, 0, 0);
+         }
+      
         
         .C {
         List-style-type: square;
